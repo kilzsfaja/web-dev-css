@@ -1,0 +1,30 @@
+h1 {
+    background-color: black;
+    color: aqua;
+    font-family: cursive;
+    font-size: 4rem;
+    max-width: 300px;
+    text-align: center;
+}
+
+.projects {
+    font-size: 2rem;
+    background-color: skyblue;
+    color: coral;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+#contact {
+    text-align: right;
+    background-color: crimson;
+    color: azure;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+#my {
+    color: ghostwhite;
+}
